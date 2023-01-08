@@ -1,6 +1,5 @@
 # Liubov_Koval
-My personal repository 👋 
-Hey there, my name is Liubov Koval and I love coddind, UX/UI Design, web-development and travelling.
+Hey there 👋 , my name is Liubov Koval and I love coddind, UX/UI Design, web-development and travelling.
 
 Now I live in London, i have just completed a full-stack web development course at Le Wagon.
 
