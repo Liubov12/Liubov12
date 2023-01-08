@@ -10,9 +10,9 @@ Now I live in London, i have just completed a full-stack web development course 
 💬 Ask me about London, Git, travelling, Ukraine or learning languages
 📫 How to reach me: kovalliubov90@gmail.com 
 
-🌎 My Languages 🌎
-   Ukraine: native
-   Russian: native
-🇺🇸 English: Intermediate
-
-
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Ruby   |
+|     3| SQL       |
+|     4| HTML       |
