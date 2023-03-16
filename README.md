@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **JS,React, Ruby, HTML, CSS**
+- 💬 Ask me about **JS, React, Ruby, HTML, CSS**
 
 - 📫 How to reach me **kovalliubov90@gmail.com**
 
