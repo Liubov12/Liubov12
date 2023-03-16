@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Liubov</h1>
 <h3 align="center">A passionate frontend developer from England</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **JS, Ruby, HTML, CSS**
+- 💬 Ask me about **JS,React, Ruby, HTML, CSS**
 
 - 📫 How to reach me **kovalliubov90@gmail.com**
 
